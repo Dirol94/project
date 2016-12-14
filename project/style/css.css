@@ -1,0 +1,30 @@
+.body-style {
+	font-family:verdana;
+	background-color: #6E97B9;
+	height: 100%;
+}
+
+.col-index {
+	background-color: #F3F3F3;
+	
+    border-radius: 6px;	
+}
+
+.row-header {
+	height: 20%;
+	background-color: #D6D6D6; 
+	border-radius: 6px 6px 0 0;
+	text-align: center;
+}
+
+.row-center {
+	height: 25%;	
+}
+
+.row-footer {
+	background-color: #D6D6D6; 
+	height: 10%;
+	border-radius: 0 0 6px 6px; 
+
+	text-align: center;
+}
